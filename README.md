@@ -33,15 +33,6 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="40" alt="stackoverflow logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="40" alt="facebook logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sushant160404/count.svg?"  />
-</div>
-
-###
-
 <img align="right" height="326" src="https://img.freepik.com/free-photo/3d-illustration-young-man-with-laptop-computer_1057-44818.jpg?t=st=1717957346~exp=1717960946~hmac=129e4c80556787c3e8014cfb1a669b09e416bd34299db61641af1d1970a086fb&w=740"  />
 
 <div align="center">
