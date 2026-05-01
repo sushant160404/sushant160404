@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <img height="300" src="https://img.freepik.com/premium-photo/portrait-brand-strategist-analyzing-generative-ai_1169665-7567.jpg?w=900"  /> -->
-  <img width="1087" height="976" alt="Gemini_Generated_Image_iyd3u3iyd3u3iyd3" src="https://github.com/user-attachments/assets/372d91c8-bc23-423d-a773-c05c9b5c031e" />
+  <img width="1087" height="600" alt="Gemini_Generated_Image_iyd3u3iyd3u3iyd3" src="https://github.com/user-attachments/assets/372d91c8-bc23-423d-a773-c05c9b5c031e" />
 
 </div>
 
